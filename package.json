@@ -1,6 +1,5 @@
 {
-  "homepage": "https://ngoctu280801.github.io/ia01-gomoku/",
-  "name": "ia01-gomoku",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {

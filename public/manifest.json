@@ -1,6 +1,6 @@
 {
-  "short_name": "ia01-gomoku",
-  "name": "ia01-gomoku",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
